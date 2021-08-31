@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_patient_info">Enter Patient Info</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="smoking">Smoking</string>
+    <string name="non_smoking">Non smoking</string>
+    <string name="age">Age</string>
+    <string name="white_blood_cells">White Blood Cells</string>
+    <string name="lymphocytes">Lymphocytes</string>
+    <string name="red_blood_cells">Red Blood Cells</string>
+    <string name="hct">HCT</string>
+    <string name="urea">Urea</string>
+    <string name="white_skin">White Skin</string>
+    <string name="black_skin">Black Skin</string>
+    <string name="eastern">Eastern</string>
+    <string name="nonEastern">NonEastern</string>
+    <string name="Neutrophil">Neutrophil</string>
+    <string name="hemoglobin">Hemoglobin</string>
+    <string name="creatine">Creatine</string>
+    <string name="iron">Iron</string>
+    <string name="alkaline_phosphatase">Alkaline Phosphatase</string>
+    <string name="button">Button</string>
+    <string name="high_density_lipoprotein">High Density Lipoprotein</string>
+    <string name="Submit">Submit</string>
+    <string name="UnSmoking">Un Smoke</string>
+    <string name="Unsmoke">Unsmoke</string>
+    <string name="Smoke">Smoke</string>
+    <string name="UnEastern">UnEastern</string>
+    <string name="export">Export</string>
+    <string name="unpregnant">UnPregnant</string>
+    <string name="Pregnant">Pregnant</string>
+    <string name="UnPregnant">UnPregnant</string>
+</resources>
